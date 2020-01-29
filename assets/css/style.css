@@ -87,7 +87,7 @@ header {
 }
 
 .logo {
-    background: url("/assets/images/chris.jpg");
+    background: url("../images/chris.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -382,7 +382,7 @@ button[type="submit"] {
 @media (min-width: 768px) {
 
     .backgr {
-        background-image: url("/assets/images/backg.jpg");
+        background-image: url("../images/backg.jpg");
         background-position: right;
         background-size: cover;
     }
