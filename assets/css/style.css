@@ -38,7 +38,7 @@
     background-color: #adadad;
 }
 
-/*------------------------------ Spacing/margins/text */
+/* Spacing/margins/text */
 
 h1,h2,h3,h4 {
     margin: 0;
@@ -76,7 +76,7 @@ h1,h2,h3,h4 {
     margin-bottom: 40px;
 }
 
-/*------------------------------ Heading */
+/* Heading */
 
 header {
     margin: 0;
@@ -171,14 +171,14 @@ header {
     letter-spacing: 2px;
 }
 
-/*------------------------------ Hover.css */
+/* Hover.css */
 
 .hvr-sweep-to-bottom:before {
     background: #dd780b;
     height: 120px;
 }
 
-/*------------------------------ Footer */
+/* Footer */
 
 footer {
     background-color: #525252;
@@ -230,7 +230,7 @@ footer {
     padding: 20px;
 }
 
-/*------------------------------ Three Reasons */
+/* Three Reasons */
 
 .three-reasons-icon {
     font-size: 26px;
@@ -241,7 +241,7 @@ footer {
     margin-bottom: 15px;
 }
 
-/*------------------------------ Personal Info */
+/* Personal Info */
 
 .personal-info-item {
     margin-bottom: 20px;
@@ -277,7 +277,7 @@ footer {
     width: 60;
 }
 
-/*------------------------------ Skills */
+/* Skills */
 
 .progress {
     position: relative;
@@ -298,7 +298,7 @@ footer {
     margin: 40px 20px;
 }
 
-/*------------------------------ Work History */
+/* Work History */
 
 .history-heading {
     color: #dd780b;
@@ -347,7 +347,7 @@ footer {
     margin-bottom: 30px;
 }
 
-/*------------------------------ Contact Form */
+/* Contact Form */
 
 .contact-heading {
     font-family: "Exo", sans-serif;
@@ -369,7 +369,7 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
-/*------------------------------ Media Queries */
+/* Media Queries */
 
 @media(min-width: 992px) {
     .center-form {
