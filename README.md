@@ -21,8 +21,6 @@ As an owner I want to:
 
 ## Features
 ***
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
 ### Existing Features
 
 #### The navigation bar
@@ -40,23 +38,16 @@ In this section, you should go over the different parts of your project, and des
 #### The footer
 - A download link to my CV and links to my social accounts, GitHub and LinkedIn page.
 
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 - Add some more interaction and more smooth color scheme.
 
 ## Technologies Used
 ***
 #### HTML5
-- For the basic structure
+- For the basic structure.
 
 #### CSS3
-- For the styling of the content
+- For the styling of the content.
 
 #### [Bootstrap 4](https://getbootstrap.com/)
 - Was used for the grids, the responsive design and for design.
@@ -117,6 +108,4 @@ I edit the picture in Photoshop to make it how I wanted.
 ### Acknowledgements
 #### [Rosie Odenkirk](https://chris8one.github.io/UCD-resume/)
 - The website I got a huge inspiration from!
-
-
-- I received inspiration for this project from X
+- This website is built on this platform.
