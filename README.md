@@ -4,7 +4,7 @@ This project shows a little about myself.
 What skills do I know and what to expect from me.
 
 ## UX
- ***
+ 
 This website is for employers looking to hire, for people or companies who wants to build a website for a certain thing.
 
 As a user I want to:
@@ -20,7 +20,7 @@ As an owner I want to:
 - Revisit my website.
 
 ## Features
-***
+
 ### Existing Features
 
 #### The navigation bar
@@ -42,7 +42,7 @@ As an owner I want to:
 - Add some more interaction and more smooth color scheme.
 
 ## Technologies Used
-***
+
 #### HTML5
 - For the basic structure.
 
@@ -74,7 +74,7 @@ As an owner I want to:
 - Used to custom the background picture in the About Me, My Skills and Any Questions area.
 
 ## Testing
-***
+
 Tested on following:
 - Google Chrome and Firefox on a laptop with Ubuntu.
 - Google Chrome and Safari on a macbook Pro 13" with MacOs Catalina.
@@ -86,14 +86,14 @@ All tests done without any bigger issues, the text in the heading on index.html 
 Tests will proceed as time goes on.
 
 ## Deployment
-***
+
 Live version of my website<br>
 <https://chris8one.github.io/ms1-project2/>
 
 The source code is stored at <https://github.com/Chris8one/ms1-project2> on [GitHub](https://github.com/).
 
 ## Credits
-***
+
 ### Website code
 - [Code Institute](https://codeinstitute.net/) for the awesome deisgn on Rosie Odenkirk website.
 - To the guys on [Stack Overflow]() for the code to change the colors of bootsraps progress bars<br>
