@@ -129,6 +129,7 @@ header {
 
 .menucontainer {
     font-size: 0;
+    background-color: #676767;
 }
 
 #nav {
@@ -144,6 +145,10 @@ header {
     height: 120px;
     text-align: center;
     padding: 0;
+}
+
+.menuitem ul {
+    
 }
 
 .menuitem a {
@@ -173,9 +178,13 @@ header {
 
 /* Hover.css */
 
-.hvr-sweep-to-bottom:before {
+.hvr-fade:hover {
     background: #dd780b;
     height: 120px;
+}
+
+.hvr-fade {
+    background: #adadad;
 }
 
 /* Footer */

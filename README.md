@@ -96,9 +96,6 @@ The source code is stored at <https://github.com/Chris8one/ms1-project2> on [Git
 
 ### Website code
 - [Code Institute](https://codeinstitute.net/) for the awesome deisgn on Rosie Odenkirk website.
-- To the guys on [Stack Overflow]() for the code to change the colors of bootsraps progress bars<br>
-[Progress bar with custom color](https://stackoverflow.com/questions/26219670/how-can-i-change-color-of-bootstrap-progress-bar-with-custom-color)<br>
-[Change progress bar background](https://stackoverflow.com/questions/23140484/change-bootstrap-progress-bar-background-not-the-bar-but-the-bars-background)
 
 ### Media
 - The background used in the About Me, My Skills and Any Questions area was<br>
@@ -107,5 +104,14 @@ I edit the picture in Photoshop to make it how I wanted.
 
 ### Acknowledgements
 #### [Rosie Odenkirk](https://chris8one.github.io/UCD-resume/)
-- The website I got a huge inspiration from!
-- This website is built on this platform.
+- The website platform I used.
+- Nice looking platform!
+
+#### Ian Lunn [Hover.css](https://ianlunn.github.io/Hover/)
+- For the hover effect on the menu buttons.
+
+#### Devashish Prasad [Stack Overflow](https://stackoverflow.com/questions/26219670/how-can-i-change-color-of-bootstrap-progress-bar-with-custom-color)
+- For the code to change the color on bootstraps progress bar.
+
+#### Abdullah Khan Niazi [Stack Overflow](https://stackoverflow.com/questions/23140484/change-bootstrap-progress-bar-background-not-the-bar-but-the-bars-background)
+- For the code to change the background color on bootstraps progress bar.
